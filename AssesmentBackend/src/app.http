@@ -1,0 +1,7 @@
+GET https://s3.amazonaws.com/roxiler.com/product_transaction.json/products
+
+GET https://s3.amazonaws.com/roxiler.com/product_transaction.json/salesMonth
+
+GET https://s3.amazonaws.com/roxiler.com/product_transaction.json/barChart
+
+GET https://s3.amazonaws.com/roxiler.com/product_transaction.json/pieChart
